@@ -1,0 +1,68 @@
+.body {
+  background-color:#A9A9A9;
+  border-radius: 20px;
+  border-color: black;
+}
+.my-div{
+	background-color:#808000;
+	text-align: ;
+    height: 180px;
+    margin-top: 0px;	
+}
+.menu {
+  text-align: center;
+  font-family: cursive;
+  background-color: #795548;
+  background-image: url("http://www.iconarchive.com/download/i66640/designbolts/free-valentine-heart/Heart-I-Love-You.ico");
+  border-radius: 10px;
+  margin-top: 1px;
+  text-decoration: speak-header;
+}
+
+h3 {
+  text-align: left;
+  font-family: garamond;
+}
+
+ul {
+  vertical-align: text-top;
+}
+
+.first-pic {
+  height: 900px;
+  width: 1140px;
+  border-width: 10px;
+  border-color: #B22222;
+  border-style: solid;
+  text-align: center;
+}
+#img_container{
+	position: relative;
+	display: inline-block;
+	border: 1px solid;
+}
+.button {
+    position: absolute;
+    top:10px;
+    left:10px;   
+}
+.img-div{
+	position: relative;
+}
+.nav-text{
+	background-color: black;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 5px;
+	margin-bottom: -1%;
+}
+.nav-top{
+	background-color: #8B008B;
+	height: 80px;
+	width: 100%;
+}
+.i-con{
+	text-align: right;
+	text-position: top;
+	color: blue;
+}

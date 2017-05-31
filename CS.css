@@ -1,0 +1,17 @@
+@@charset "UTF-8";
+
+article, aside, header, section, footer, main, nav{
+	diplay: block;
+
+html,head,body,h2,h3,p,header,main,section,article,nav,aside,footer{
+	padding:0;
+	margin:0;
+}
+
+#banner{
+	background-color:blue;
+}
+
+.bdy{
+	background-color:blue;
+}
